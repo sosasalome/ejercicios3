@@ -1,0 +1,76 @@
+.anita{
+         max-width: 100%;
+         height:20%;}
+ .div34 {
+background-color: white;
+height: 70PX; }
+.boton_personalizado{
+    text-decoration: solid;
+    text-emphasis-style: double-circle;
+    padding: 7px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #323132;
+    background-color: #90CAF9;
+    border-radius: 5px;
+    border: 0px solid #0016b0;
+    position: absolute;
+    left: 32%;
+  
+  }
+  .boton_personalizado1{
+    text-decoration: solid;
+    text-emphasis-style: double-circle;
+    padding: 7px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #323132;
+    background-color: #90CAF9;
+    border-radius: 5px;
+    border: 0px solid #0016b0;
+    position: absolute;
+    left: 47%;
+
+    
+  }
+  .boton_personalizado2{
+    text-decoration: solid;
+    text-emphasis-style: double-circle;
+    padding: 7px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #323132;
+    background-color: #90CAF9;
+    border-radius: 5px;
+    border: 0px solid #0016b0;
+    position: absolute;
+    left: 62%;
+    
+  }
+  .boton_personalizado3{
+    text-decoration: solid;
+    text-emphasis-style: double-circle;
+    padding: 7px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #323132;
+    background-color: #90CAF9;
+    border-radius: 5px;
+    border: 0px solid #0016b0;
+    position: absolute;
+    left: 77%;
+    
+  }
+.cuadro21 {
+position: relative;
+top: 4%;
+left: 20%;
+width: 60%;
+height: 260%;
+background: #CEE3F6;
+border-radius : 12px;
+}
+.foto{
+    position: absolute;
+    left: 53%;
+}
